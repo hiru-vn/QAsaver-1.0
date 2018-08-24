@@ -1,2 +1,2 @@
 # QAsaver-1.0
-working on some winform project :D i will update them to something useful
+learning winform project :D just express my idea into this app, dont read the code, it terrible ,i know
